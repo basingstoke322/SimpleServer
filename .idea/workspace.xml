@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4594649-115a-4a11-ba1c-7aad5fd85173" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UaFPiKqqyl831Twc000tUfmDnk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ClientServerKurs/kursach_server" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Client" />
+      <module name="SimpleServer" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Example" />
+      <module name="SimpleServer" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="SimpleServer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Server" />
+      <module name="SimpleServer" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586950775014">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state x="299" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1026@0.0.1680.1026" timestamp="1586950775014" />
+    <state x="623" y="273" width="432" height="482" key="FileChooserDialogImpl" timestamp="1587020477559">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state x="623" y="273" width="432" height="482" key="FileChooserDialogImpl/0.0.1680.1026@0.0.1680.1026" timestamp="1587020477559" />
+    <state width="1658" height="248" key="GridCell.Tab.0.bottom" timestamp="1586950937143">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state width="1658" height="248" key="GridCell.Tab.0.bottom/0.0.1680.1026@0.0.1680.1026" timestamp="1586950937143" />
+    <state width="1658" height="248" key="GridCell.Tab.0.center" timestamp="1586950937142">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state width="1658" height="248" key="GridCell.Tab.0.center/0.0.1680.1026@0.0.1680.1026" timestamp="1586950937142" />
+    <state width="1658" height="248" key="GridCell.Tab.0.left" timestamp="1586950937142">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state width="1658" height="248" key="GridCell.Tab.0.left/0.0.1680.1026@0.0.1680.1026" timestamp="1586950937142" />
+    <state width="1658" height="248" key="GridCell.Tab.0.right" timestamp="1586950937142">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state width="1658" height="248" key="GridCell.Tab.0.right/0.0.1680.1026@0.0.1680.1026" timestamp="1586950937142" />
+    <state x="355" y="266" key="SettingsEditor" timestamp="1586950900158">
+      <screen x="0" y="0" width="1680" height="1026" />
+    </state>
+    <state x="355" y="266" key="SettingsEditor/0.0.1680.1026@0.0.1680.1026" timestamp="1586950900158" />
+  </component>
+</project>
